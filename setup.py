@@ -3,6 +3,7 @@ import os
 import pkg_resources
 from setuptools import setup, find_packages
 
+# python setup.py install
 setup(
     name="whisper",
     py_modules=["whisper"],
